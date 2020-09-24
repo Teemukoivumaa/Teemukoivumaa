@@ -35,6 +35,11 @@
 ![RaspberryPi Badge](https://img.shields.io/badge/Tools-RaspberryPi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=FFC43D)
 ![Arduino Badge](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=FFC43D)
 
+## Brian Kernighan
+`Debugging is twice as hard as writing the code in the first place.`
+
+`Therefore if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.`
+
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Teemukoivumaa&show_icons=true)  
 
