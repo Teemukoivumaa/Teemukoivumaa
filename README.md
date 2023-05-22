@@ -1,10 +1,9 @@
 ![Header Image](https://github.com/Teemukoivumaa/Teemukoivumaa/blob/master/header.png)
 
 ## About me
-<p>I am Student at <b><em>Oulu University of Applied Sciences</em></b> and I'm studying <b><em>Information Technology</em></b>.</p>
+<p>I am Developer at <b><em>OP Financial Group</em></b></em></b>.</p>
 
 <p>I like making websites and mobile applications.</p>
-<p>I'm also interested in hardware development, and I'm currently making a macro pad with <b>Arduino</b>. </p>
 
 ##
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Teemukoivumaa&show_icons=true)  
